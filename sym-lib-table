@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name digi_analog_clock-rescue)(type Legacy)(uri ${KIPRJMOD}/digi_analog_clock-rescue.lib)(options "")(descr ""))
+  (lib (name 6x_sk6805_1515-rescue)(type Legacy)(uri ${KIPRJMOD}/6x_sk6805_1515-rescue.lib)(options "")(descr ""))
 )
